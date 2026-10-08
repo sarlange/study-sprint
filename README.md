@@ -7,6 +7,8 @@ This is your squad's starting product for **Elite 101**. It already runs. Your
 job over the term is to grow it one ticket at a time, the way a real software
 team does.
 
+- Sarah (building StudySprint)
+
 ## Run it
 
 ```bash
